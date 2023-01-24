@@ -1,4 +1,4 @@
-The queries for this submission:
+The links to the queries for this submission can be found below:
 https://app.flipsidecrypto.com/velocity/queries/02b92e5c-19e6-4d42-99ae-b09168dd2475
 https://app.flipsidecrypto.com/velocity/queries/b904d8cc-4e0d-452b-b636-a2d67cb14d52
 https://app.flipsidecrypto.com/velocity/queries/71721da1-e4be-4a21-9831-82b0fc765c16
@@ -6,17 +6,18 @@ https://app.flipsidecrypto.com/velocity/queries/c7d38ea2-15fb-46d7-a059-ae93adf7
 https://app.flipsidecrypto.com/velocity/queries/282e5977-424b-486d-b95e-6ec396a0f1c4
 https://app.flipsidecrypto.com/velocity/queries/8059d894-9112-4963-8853-1562aa853c21
 https://app.flipsidecrypto.com/velocity/queries/4447bec3-05a2-4f81-a188-19f792347a35
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+https://app.flipsidecrypto.com/velocity/queries/0837c2d9-335c-4947-9197-7a0859d1c890
+https://app.flipsidecrypto.com/velocity/queries/f9987823-0922-4666-a7e8-41ba47d095e3
+https://app.flipsidecrypto.com/velocity/queries/3c92916a-746f-4e4b-b2d6-14866fbf4bb6
+https://app.flipsidecrypto.com/velocity/queries/30723ee9-ad09-42e7-9e6b-ba78f929877b
+https://app.flipsidecrypto.com/velocity/queries/6be25a6b-d624-4760-aef8-8ef81c791076
+https://app.flipsidecrypto.com/velocity/queries/debb6447-c6ed-4fcd-b5a3-c23fe9bee2ef
+https://app.flipsidecrypto.com/velocity/queries/f73bf311-6f86-4dd4-916f-a80bd0929e66
+https://app.flipsidecrypto.com/velocity/queries/d2ab3c13-4a31-4860-9a6a-5b8a69f5c2ab
+https://app.flipsidecrypto.com/velocity/queries/a3c81147-9ba0-4551-9566-27aceb8acc63
+https://app.flipsidecrypto.com/velocity/queries/75393195-efe4-49d0-b725-6064e1bc5812
+https://app.flipsidecrypto.com/velocity/queries/d067bc92-7daa-4fcd-aceb-7ed5e79de862
+https://app.flipsidecrypto.com/velocity/queries/1a5782fb-aa6f-4e33-87cb-d316d6a7a6da
+https://app.flipsidecrypto.com/velocity/queries/eeb057d4-227d-4126-ab6f-d1c63b80ccd8
+https://app.flipsidecrypto.com/velocity/queries/e660e096-b95b-4df1-a029-32c73cf6eecb
+https://app.flipsidecrypto.com/velocity/queries/51604a9f-b9e0-47d6-91c3-321bfc811f5a
